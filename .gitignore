@@ -1,2 +1,6 @@
 /build*
-
+*.o
+*.out
+image_storage
+moc_*
+Makefile
