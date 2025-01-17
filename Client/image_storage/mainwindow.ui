@@ -31,7 +31,7 @@
        </spacer>
       </item>
       <item>
-       <widget class="QLineEdit" name="lineEdit">
+       <widget class="QLineEdit" name="ssid">
         <property name="minimumSize">
          <size>
           <width>275</width>
@@ -80,7 +80,7 @@
        </spacer>
       </item>
       <item>
-       <widget class="QLineEdit" name="lineEdit_2">
+       <widget class="QLineEdit" name="pwd">
         <property name="minimumSize">
          <size>
           <width>275</width>
@@ -113,7 +113,7 @@
     <item row="0" column="2" colspan="2">
      <layout class="QVBoxLayout" name="verticalLayout_3">
       <item>
-       <widget class="QPushButton" name="pushButton">
+       <widget class="QPushButton" name="register_2">
         <property name="minimumSize">
          <size>
           <width>0</width>
@@ -132,7 +132,7 @@
        </widget>
       </item>
       <item>
-       <widget class="QPushButton" name="pushButton_2">
+       <widget class="QPushButton" name="login">
         <property name="minimumSize">
          <size>
           <width>0</width>
@@ -173,7 +173,7 @@
       <item>
        <layout class="QHBoxLayout" name="horizontalLayout">
         <item>
-         <widget class="QPushButton" name="pushButton_3">
+         <widget class="QPushButton" name="choose">
           <property name="minimumSize">
            <size>
             <width>150</width>
@@ -205,7 +205,7 @@
          </spacer>
         </item>
         <item>
-         <widget class="QPushButton" name="pushButton_4">
+         <widget class="QPushButton" name="upload">
           <property name="minimumSize">
            <size>
             <width>60</width>
@@ -261,7 +261,7 @@
          </spacer>
         </item>
         <item>
-         <widget class="QPushButton" name="pushButton_5">
+         <widget class="QPushButton" name="flush">
           <property name="minimumSize">
            <size>
             <width>60</width>
